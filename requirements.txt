@@ -1,0 +1,6 @@
+selenium>=4.11.2
+pytest>=7.4.0
+webdriver-manager>=4.0.0
+selenium-page-factory>=1.7
+requests>=2.32.5
+locust>=2.34.0

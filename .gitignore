@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Python venv
+venv/
+.venv/
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# pytest cache
+.pytest_cache/
+
+# local environment files
+.env
+
+# screenshots or output dirs (optional)
+screenshots/
